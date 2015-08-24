@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HaloMD</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="play">Jouer</string>
+    <string name="help">Aide</string>
+    <string name="intro">Introduction</string>
+    <string name="loading_message">Chargement</string>
+     <string name="next_wave_message">Attaque dans : </string>
+     <string name="wave_message">Vague </string>
+
+</resources>
