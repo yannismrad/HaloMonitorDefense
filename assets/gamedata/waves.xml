@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Description des vagues d'ennemis -->
+<waves>
+
+    <wave number="1" >
+
+        <enemy
+            count="1"
+            type="flood_infection" >
+        </enemy>
+        
+    </wave>
+
+    <wave number="2" >
+
+        <enemy
+            count="10"
+            type="flood_infection" >
+        </enemy>
+    </wave>
+
+    <wave number="3" >
+
+        <enemy
+            count="100"
+            type="flood_infection" >
+        </enemy>
+
+        <enemy
+            count="30"
+            type="flood_combat1" >
+        </enemy>
+    </wave>
+
+    <wave number="4" >
+
+        <enemy
+            count="100"
+            type="flood_infection" >
+        </enemy>
+
+        <enemy
+            count="50"
+            type="flood_combat1" >
+        </enemy>
+    </wave>
+
+    <wave number="5" >
+
+        <enemy
+            count="100"
+            type="flood_infection" >
+        </enemy>
+
+        <enemy
+            count="50"
+            type="flood_combat1" >
+        </enemy>
+
+        <enemy
+            count="50"
+            type="flood_combat2" >
+        </enemy>
+    </wave>
+
+</waves>
